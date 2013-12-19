@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : BSPRG
+tagline: 
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : wei xia  
+  email : weixia@usc.edu
   github : username
   twitter : username
   feedburner : feedname
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
