@@ -5,7 +5,7 @@ title:
 ---
 {% include JB/setup %}
 
-####Behavioral Signal Processing Reading Group @ SAIL, USC
+##### Behavioral Signal Processing Reading Group @ SAIL, USC
 
 Internal Google Group: [BSPRG](https://groups.google.com/forum/#!forum/bsprg)
 
